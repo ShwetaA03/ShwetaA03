@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Shweta Aswal
+- 👀 I’m interested in Problem solving, finding solutions and gaining knowledge on different domains.
+- 🌱 I’m currently learning visulalizing the findings from tabular data.
+- 💞️ I’m looking to collaborate on data analysis projects, guesstimates.
+- 📫 How to reach me shwetaaswal03@gmail.com
+
+<!---
+ShwetaA03/ShwetaA03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
