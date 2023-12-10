@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shweta Aswal
-- 👀 I’m interested in Problem solving, finding solutions and gaining knowledge on different domains.
+- 👀 I love solving Problems, finding solutions and gaining knowledge on different domains.
 - 🌱 I’m currently learning visulalizing the findings from tabular data.
 - 💞️ I’m looking to collaborate on data analysis projects, guesstimates.
 - 📫 reach me on shwetaaswal03@gmail.com
